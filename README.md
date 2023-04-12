@@ -1,5 +1,4 @@
 <div align="center">
-
 # Hi there, I'm Danya <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A0D2F7&background=FF110C00&center=true&vCenter=true&width=550&lines=I+click+on+the+keyboard+until+a+wonder+happens" alt="Typing SVG"/>
@@ -13,9 +12,6 @@
 
 <br/>
 <br/>
-
-#
-
 
 ## My Stack: 👌
 
