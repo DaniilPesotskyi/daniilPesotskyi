@@ -16,7 +16,7 @@
 
 # About
 
-<p>I am happy to present you my skills and the projects I created to demonstrate my professionalism and passion for development.<p>
+<font size = 3> _I am happy to present you my skills and the projects I created to demonstrate my professionalism and passion for development._ </font>
 
 #
 
