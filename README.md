@@ -16,7 +16,7 @@
 
 # About
 
-> I am happy to present you my skills and the projects I created to demonstrate my professionalism and passion for development.
+<p>I am happy to present you my skills and the projects I created to demonstrate my professionalism and passion for development.<p>
 
 #
 
