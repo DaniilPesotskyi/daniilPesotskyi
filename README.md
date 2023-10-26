@@ -27,7 +27,6 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
- <img src="https://cdn.jsdelivr.net/gh/reduxjs/redux-toolkit/dist/assets/logo-plain.svg" height="40" width="52" alt="redux toolkit logo">
 </div>
 
 <br/>
